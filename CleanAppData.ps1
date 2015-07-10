@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path ${env:APPDATA} -Filter "Test" | Remove-Item -Force -Recurse
