@@ -5,8 +5,6 @@ cls
 set ROOT_DIR=C:\
 set APP_DIR=%ROOT_DIR%\app\bin
 
-
-
 c:
 cd \
 cd %APP_DIR%
